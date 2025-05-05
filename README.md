@@ -1,6 +1,6 @@
 Here's how to test properly:
 
-1. Terminal 1: Keep your server running with node app.js
+1. Terminal 1: Keep your server running with `node app.js`
 2. Terminal 2: Run test commands like:
 
 ```bash

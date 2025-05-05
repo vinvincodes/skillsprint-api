@@ -1,3 +1,4 @@
+// Express-based API with endpoints to track user progress in a 30-day skill challenge.
 const express = require('express');
 const { markTaskComplete, getUserProgress } = require('./progressController');
 

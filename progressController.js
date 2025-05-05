@@ -1,3 +1,5 @@
+// Progress Tracking API to handle two main tasks: saving user progress and calculating streaks.
+
 const { calculateStreak } = require('./streakUtils');
 
 // In-memory storage: { userId: Set of completed days }

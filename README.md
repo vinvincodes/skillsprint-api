@@ -1,6 +1,7 @@
 Here's how to test properly:
-Terminal 1: Keep your server running with node app.js
-Terminal 2: Run test commands like:
+
+1. Terminal 1: Keep your server running with node app.js
+2. Terminal 2: Run test commands like:
 
 ```bash
    curl -X POST http://localhost:3000/progress/user1/1
